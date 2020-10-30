@@ -1,37 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Mohima-Zannat 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-md-imran97
-/
-web_tec_lab_task
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-web_tec_lab_task/Lab_3/Lab_task_club_reg_form.php /
-@md-imran97
-md-imran97 task complete
-Latest commit c9695a9 3 days ago
- History
- 1 contributor
-354 lines (318 sloc)  8.97 KB
-  
 <?php
 	$name = "";
 	$err_name = "";
@@ -386,15 +352,3 @@ Latest commit c9695a9 3 days ago
 	</body>
 	
 </html>
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
