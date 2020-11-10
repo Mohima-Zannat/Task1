@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<users>
+  <user>
+    <name>abcabca</name>
+    <password>mU12345678#</password>
+    <username>abcabcab</username>
+    <gender>Female</gender>
+    <email>m@u.com</email>
+    <phone>9896315736</phone>
+    <city/>
+  </user>
+  <user>
+    <name>abcabca</name>
+    <password>mU12345678#</password>
+    <username>abcabcab</username>
+    <gender>Female</gender>
+    <email>m@u.com</email>
+    <phone>9896315736</phone>
+    <city>Rangpur</city>
+  </user>
+  <user>
+    <name>muna</name>
+    <password>mU12345678#</password>
+    <username>mohima</username>
+    <gender>Female</gender>
+    <email>m@u.com</email>
+    <phone>9896315736</phone>
+    <city>Rangpur</city>
+  </user>
+</users>
